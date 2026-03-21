@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gitignore"
-version = "0.0"
+version = "0.1"
 description = "pre-commit hook to sanitise Git ignore files"
 authors = [
     { name = "Karl Wette", email = "karl.wette@anu.edu.au" },
