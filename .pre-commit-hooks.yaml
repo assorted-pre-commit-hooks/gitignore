@@ -1,0 +1,7 @@
+- id: gitignore
+  name: gitignore
+  entry: gitignore
+  types: [file]
+  files: ^.gitignore$|/.gitignore$
+  require_serial: true
+  language: python
