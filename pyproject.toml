@@ -12,7 +12,7 @@ authors = [
 requires-python = ">=3.10"
 readme = "README.md"
 license = "MIT"
-license-files = ["LICENSES/MIT.txt"]
+license-files = ["LICENSES/MIT.txt", "LICENSES/CC0-1.0.txt"]
 
 [project.scripts]
 gitignore = "gitignore:main"
